@@ -1,0 +1,115 @@
+Return-path: <nobody@sys2.inmotionhosting.com>
+Envelope-to: eric@happilyeverepstein.com
+Delivery-date: Wed, 21 Dec 2016 10:17:02 -0500
+Received: from secure1.inmotionhosting.com ([70.39.232.170]:39371 helo=sys2.inmotionhosting.com)
+	by ecbiz213.inmotionhosting.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <nobody@sys2.inmotionhosting.com>)
+	id 1cJida-001PKH-FS
+	for eric@happilyeverepstein.com; Wed, 21 Dec 2016 10:17:02 -0500
+Received: from nobody by sys2.inmotionhosting.com with local (Exim 4.85)
+	(envelope-from <nobody@sys2.inmotionhosting.com>)
+	id 1cJida-000132-Az
+	for eric@happilyeverepstein.com; Wed, 21 Dec 2016 10:17:02 -0500
+To: eric@happilyeverepstein.com
+Subject: FTP login information
+X-PHP-Script: secure1.inmotionhosting.com/index.php for 68.197.194.136
+From: "InMotion Hosting, Inc." <support@inmotionhosting.com>
+Date: Wed, 21 Dec 2016 10:17:02 -0500
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+Message-Id: <E1cJida-000132-Az@sys2.inmotionhosting.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sys2.inmotionhosting.com
+X-AntiAbuse: Original Domain - happilyeverepstein.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - sys2.inmotionhosting.com
+X-Get-Message-Sender-Via: sys2.inmotionhosting.com: uid via acl_c_vhost_owner from authenticated_id: nobody from /only user confirmed/virtual account not confirmed
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A<html xmlns=3D"ht=
+tp://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A<meta http-equiv=3D"Conten=
+t-Type" content=3D"text/html; charset=3Dutf-8" />=0D=0A<title>Untitled D=
+ocument</title>=0D=0A<style type=3D"text/css">=0D=0A        .ReadMsgBody=
+ {width: 100%;}=0D=0A        .ExternalClass {width: 100%;}=0D=0A</style>=
+=0D=0A</head>=0D=0A=0D=0A<body style=3D"background-color: #eeeeee; font-=
+family: Verdana, Geneva, sans-serif; color: #000000; margin: 0; padding:=
+ 0;">        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"background-color: #eeeeee;">        <tr>          =
+     <td align=3D"center">                <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" width=3D"600" style=3D"text-align: left;">   =
+                     <tr>                       <td colspan=3D"3" style=
+=3D"font-size: 0;"><img =0D=0Asrc=3D"https://secure1.inmotionhosting.com=
+/_img/imh-email_header-top-tagline.png" width=3D"600" height=3D"142" sty=
+le=3D"font-size:12px;" alt=3D"InMotion Hosting" /></td></tr>    <tr><td=
+ colspan=3D"3" height=3D"26" bgcolor=3D"#ad1b20" style=3D"font-size: 24p=
+x; font-family: Verdana, Geneva, sans-serif; color: #ffffff; padding-lef=
+t: 40px; padding-right: 40px; text-align: left; line-height: 26px; backg=
+round-color: #ad1b20;">FTP Login Information</td></tr>     <tr><td colsp=
+an=3D"3" style=3D"font-size: 0;"><img src=3D"https://secure1.inmotionhos=
+ting.com/_img/imh-email_header-bottom.png" width=3D"600" height=3D"21" a=
+lt=3D"" /></td></tr>     <tr><td width=3D"19" bgcolor=3D"#114861"><img s=
+rc=3D"https://secure1.inmotionhosting.com/_img/imh-email_bg-gradient_lef=
+t.png" width=3D"19" height=3D"730" alt=3D"" /></td>  <td width=3D"540" b=
+gcolor=3D"#ffffff" valign=3D"top"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">  <tr><td style=3D"padding-left: 20px; padding-right=
+: 20px; padding-top: 15px;"><p style=3D"font-size:12px; font-family: Ver=
+dana, Geneva, sans-serif; line-height: 17px; margin-top: 0; margin-botto=
+m: 17px;">Eric Epstein is sending you login information to access their=
+ cpanel and ftp accounts in order to load their website.</p><p style=3D"=
+font-size:12px; font-family: Verdana, Geneva, sans-serif; line-height: 1=
+7px; margin-top: 0; margin-bottom: 17px;">=0A</p><p style=3D"font-size:1=
+2px; font-family: Verdana, Geneva, sans-serif; line-height: 17px; margin=
+-top: 0; margin-bottom: 17px;">=0APlan: Power Plan</p><p style=3D"font-s=
+ize:12px; font-family: Verdana, Geneva, sans-serif; line-height: 17px; m=
+argin-top: 0; margin-bottom: 17px;">=0ADomain: happilyeverepstein.com</p=
+><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-serif; l=
+ine-height: 17px; margin-top: 0; margin-bottom: 17px;">=0AUsername: happ=
+il13</p><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-s=
+erif; line-height: 17px; margin-top: 0; margin-bottom: 17px;">=0APasswor=
+d: (please ask Eric for the password)</p><p style=3D"font-size:12px; fon=
+t-family: Verdana, Geneva, sans-serif; line-height: 17px; margin-top: 0;=
+ margin-bottom: 17px;">=0AServer: ecbiz213</p><p style=3D"font-size:12px=
+; font-family: Verdana, Geneva, sans-serif; line-height: 17px; margin-to=
+p: 0; margin-bottom: 17px;">=0AHostname: http://ecbiz213.inmotionhosting=
+.com</p><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-s=
+erif; line-height: 17px; margin-top: 0; margin-bottom: 17px;">=0A</p><p=
+ style=3D"font-size:12px; font-family: Verdana, Geneva, sans-serif; line=
+-height: 17px; margin-top: 0; margin-bottom: 17px;">Temp URL: http://ecb=
+iz213.inmotionhosting.com/~happil13</p><p style=3D"font-size:12px; font-=
+family: Verdana, Geneva, sans-serif; line-height: 17px; margin-top: 0; m=
+argin-bottom: 17px;">=0ATemp Control Panel: http://ecbiz213.inmotionhost=
+ing.com/cpanel</p><p style=3D"font-size:12px; font-family: Verdana, Gene=
+va, sans-serif; line-height: 17px; margin-top: 0; margin-bottom: 17px;">=
+=0ATemp Webmail: http://ecbiz213.inmotionhosting.com/webmail</p><p style=
+=3D"font-size:12px; font-family: Verdana, Geneva, sans-serif; line-heigh=
+t: 17px; margin-top: 0; margin-bottom: 17px;">=0AControl Panel: http://w=
+ww.happilyeverepstein.com/cpanel</p><p style=3D"font-size:12px; font-fam=
+ily: Verdana, Geneva, sans-serif; line-height: 17px; margin-top: 0; marg=
+in-bottom: 17px;">=0AWebmail: http://www.happilyeverepstein.com/webmail<=
+/p><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-serif;=
+ line-height: 17px; margin-top: 0; margin-bottom: 17px;">=0ANameserver 1=
+: ns.inmotionhosting.com</p><p style=3D"font-size:12px; font-family: Ver=
+dana, Geneva, sans-serif; line-height: 17px; margin-top: 0; margin-botto=
+m: 17px;">=0ANameserver 2: ns2.inmotionhosting.com</p><p style=3D"font-s=
+ize:12px; font-family: Verdana, Geneva, sans-serif; line-height: 17px; m=
+argin-top: 0; margin-bottom: 17px;">=0ANameserver 1 Ip: 74.124.210.242</=
+p><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-serif;=
+ line-height: 17px; margin-top: 0; margin-bottom: 17px;">=0ANameserver 2=
+ Ip: 70.39.150.2</p><p style=3D"font-size:12px; font-family: Verdana, Ge=
+neva, sans-serif; line-height: 17px; margin-top: 0; margin-bottom: 17px;=
+">=0A</p><p style=3D"font-size:12px; font-family: Verdana, Geneva, sans-=
+serif; line-height: 17px; margin-top: 0; margin-bottom: 17px;">Sincerely=
+,<br><br>InMotion Hosting<br>888-321-HOST (4678) Available 24/7<br>Reach=
+ us on Skype: <a href=3D"http://www.inmotionhosting.com/skype">www.inmot=
+ionhosting.com/skype</a><br><a href=3D"http://www.inmotionhosting.com">w=
+ww.inmotionhosting.com</a><br><a href=3D"http://www.inmotionhosting.com/=
+support">www.inmotionhosting.com/support</a></p><p style=3D"font-size:12=
+px; font-family: Verdana, Geneva, sans-serif; line-height: 17px; margin-=
+top: 0; margin-bottom: 17px;"></td></tr></table></td><td width=3D"19" bg=
+color=3D"#114861"><img src=3D"https://secure1.inmotionhosting.com/_img/i=
+mh-email_bg-gradient_right.png" width=3D"19" height=3D"730" alt=3D"" /><=
+/td></tr>  <tr><td colspan=3D"3" height=3D"20" bgcolor=3D"114861"></td><=
+/tr></table></td></tr></table></body></html>
